@@ -1,0 +1,316 @@
+name: Cisco Ecosystem Exchange - Digital Solutions Integrator
+description: Meet the integrators who specialize in digital solutions. They know how to integrate digital capabilities across all business operations, and are experts at driving those conversations with customers.
+url: https://developer.cisco.com/ecosystem/dsi/
+
+name: Cisco BroadWorks APIs
+description: Cisco BroadWorks is designed to enable all service providers to rapidly launch new or migrate legacy communications services using next-generation cloud architectures, which offer significant operational and competitive advantages.
+url: /broadworks/
+
+name: Cisco Ecosystem Exchange
+description: Cisco Ecosystem Exchange: Accelerate digital transformation with technology solutions tailored to your business needs.
+url: https://developer.cisco.com/ecosystem/
+
+name: Firepower Management Center (FMC) API
+description: Context-rich APIs for exchange of network and endpoint security event data and host information.
+url: /firepower/management-center/
+
+name: Edge Intelligence
+description: Programmable application to extract, transform, govern and deliver data from IoT edge devices to applications.
+url: /edge-intelligence/
+
+name: abc
+description: abc
+url: /site/cool-platform
+
+name: Video Surveillance Manager test
+description: Integrate with Video Surveillance Manager (VSM) APIs to get information from the VSM system including cameras, Media Servers, system and device health, security events and alerts. Examples shown here can be used as a starting point to understand the Cisco VSM API capabilities and features before building your own application. 
+url: /site/video-surveillance-manager/
+
+name: Kinetic Ecosystem
+description: Discover Kinetic ecosystem to help accelerate your digital transformation.
+url: /site/kinetic-ecosystem/
+
+name: Cisco with Ansible
+description: Start with the Ansible learning labs to get familiar with configuration management and orchestration concepts. Next, learn how to incorporate Ansible with Cisco solutions.
+url: /ansible/
+
+name: Service Providers
+description: Cisco has a unique approach to service provider automation, which encompasses and leverages mass-scale networking. Cisco consultants use a combination of networking, virtualization and software expertise, uniquely leveraging the power of the networking devices to deliver automation solutions.
+url: /service-providers/
+
+name: abc
+description: Hero Banner Heading   The Cisco ACI programmability model allows complete programmatic access to the application centric infrastructure.With this access, customers can integrate network deployment into management and monitoring tools and deploy new workloads programmatically.       https://pubhub.devnetcloud.com/media/aci/site/images/banner-background.png         Get Started     event.html     _blank     button     btn-lg-wide b...
+url: /site/cool-platform/
+
+name: dnac-rest-api-site
+description: dnac rest api site
+url: /site/dnac-rest-api-site
+
+name: Cisco Ecosystem Exchange - Solution Partner Program
+description: Explore the catalog for Cisco-approved solutions that work seamlessly with your infrastructure. Solution partner offerings can help solve your toughest business challenges, across any industry, and any technology.
+url: https://developer.cisco.com/ecosystem/spp/
+
+name: Firepower Threat Defense (FTD)
+description: A Rest API that automates configuration management and execution of operational tasks on Cisco Firepower Threat Defense (FTD) devices.
+url: /firepower/threat-defense/
+
+name: SD-WAN APIs
+description: Cisco SD-WAN powered by Viptela is a cloud-delivered overlay WAN architecture for enterprises that reduces WAN costs and time to deploy new services. Developers can streamline workflows, deploy and manage devices and enhance application experience while developing with SD-WAN.
+url: /sdwan/
+
+name: Cisco YANG Suite
+description: Construct and test YANG based APIs over NETCONF, RESTCONF, gRPC and gNMI on IOS XE, IOS XR, and NX OS platforms.
+url: /yangsuite/
+
+name: Cisco Networking Academy - Student
+description: Explore emerging technologies in network automation, programming, IoT, cloud, and APIs. Prepare yourself for the future by collaborating with industry experts to grow your skills and career opportunities.
+url: /site/netacad/student/
+
+name: SD-WAN Videos
+description: Learn how to use REST APIs, and create a simple Python application to update a device's template with Cisco SD-WAN APIs. No coding experience required.
+url: /sdwan/video/
+
+name: Room Devices
+description: Room Devices includes the MX, SX, DX and Room Kit series running CE firmware. The devices have rich APIs and unique great extensions to allow for integration into customers workflows and resources.
+url: /site/roomdevices/
+
+name: Cisco with Ansible
+description: Start your automation journey with Ansible. These Ansible tutorials give you the flexibility to turn your laptops into an Ansible control station to automate basic tasks, or to use Ansible as an orchestration tool to rollout application updates while ensuring minimal downtime.
+url: /automation-ansible/
+
+name: AI & ML at Cisco
+description: Accelerate your business with Cisco-powered AI and ML solutions. From out of the box products to developer solutions, explore how Cisco platforms help you extract value from your data.
+url: /site/ai/
+
+name: Application Developer - Bots
+description: Using Cisco Collaboration APIs, you can create bots that can enable your teams to operate more efficiently and integrate with business workflows
+url: /appdev/bots/
+
+name: Application Developer - Location 
+description: location services, captive portals, location insights
+url: /appdev/location/
+
+name: Application Developer - Web
+description: web developers, embed video calls, captive portals, app performance
+url: /appdev/web/
+
+name: Blockchain
+description: Coming soon. Build your own private blockchain using the Cisco Blockchain framework. Our simple sandbox enviroment can help you build your blockchain skills and has tools you need to explore and build blockchain use cases for the enterprise.
+url: /blockchain/
+
+name: Cisco Meeting Server
+description: Cisco Meeting Server brings premises-based video, audio, and web communication together to meet the collaboration needs of the modern workplace. The Cisco Meeting Server API provides a powerful and flexible interface. Allowing you to tailor the system to integrate seamlessly with your business workflows.
+url: /cisco-meeting-server/
+
+name: devnetcta
+description: 
+url: /site/devnetcta/
+
+name: Intersight
+description: Cisco Intersight™ provides intelligent cloud-based infrastructure management for the Cisco Unified Computing System™ (Cisco UCS®) and Cisco HyperFlex® platforms. Intersight offers an intelligent level of management that enables IT organizations to analyze, simplify, and automate their environments.
+url: /site/intersight/
+
+name: Manufacturer Usage Description (MUD)
+description: MUD is an authoritative identifier of IoT devices on the network, as it allows manufacturers to expose the identity and intended use of their devices using an IETF standard. 
+url: /site/mud/
+
+name: Network Services Orchestrator (NSO)
+description: Cisco Network Services Orchestrator (NSO) is an industry-leading software platform that delivers high-quality services faster and more easily to your customers through network automation.
+url: /site/nso/
+
+name: presidioexchange18
+description: 
+url: /events/presidioexchange18/
+
+name: raffle-promo-rules
+description: 
+url: /site/raffle-promo-rules/
+
+name: Threat Grid
+description: Threat Grid’s REST APIs allow users to submit samples for analysis as part of an investigation or research. The indicators and data from the analysis are indexed and searchable making it easy to use for triage, hunting, or threat intelligence. This allows analysts to query the data and find, for example, additional pieces of infrastructure that an attacker is using in a campaign, methods of persistence a family of malware uses, host or network indicators that follow similar naming conventions, host indicators that families of malware leave behind, etc.
+url: /threat-grid/
+
+name: Analytics and Automation Software Dev Center
+description: Software portfolio to gain insights at the edge, automate new interactions and engage in context
+url: /site/analytics-automation/
+
+name: APIC Enterprise Module (APIC-EM)
+description: APIC-EM is an SDN controller for policy based automation of the network infrastructure, simplifying deployment and network operations. The built in applications IWAN, Path Trace and Plug and Play support enterprise routers, switches and Access Points. All capabilities are exposed via a REST API.
+url: /site/apic-em/
+
+name: Cisco Administrative XML (AXL)
+description: AXL is a Soap based API that enables remote provisioning of Unified CM. Upgrade your application to the latest AXL schema.
+url: /site/axl/
+
+name: Cloud Dev Center
+description: Explore and learn the APIs, tools, and capabilities for building solutions in private, public, and hybrid clouds.
+url: /site/cloud/
+
+name: CMX Mobility Services
+description: Cisco Connected Mobile Experiences (CMX) is a smart Wi-Fi solution that uses the Cisco wireless infrastructure to detect and locate consumers’ mobile devices. With it, your organization can directly deliver content to smartphones and tablets that’s personalized to your visitors’ preferences and pertinent to their real-time indoor locations.
+url: /site/cmx-mobility-services/
+
+name: Collaboration Dev Center
+description: Check out the latest APIs, SDKs and resources for Cisco Collaboration technologies.
+url: /site/collaboration/
+
+name: Unified Contact Center Express
+description: Cisco Unified Contact Center Express is a highly secure, sophisticated, and easy to deploy customer interaction management solution for up to 400 agents. Customers can integrate UCCX into existing applications, build reporting applications, or even customize the customer experience with scripting.
+url: /site/contact-center-express/
+
+name: Context Service
+description: Context Service is a cloud-based storage for customer journey data to deliver an omnichannel customer service experience. It is available as an out-of-the-box feature of CCE and CCX and provides an API for third party integration.
+url: /site/context-service/
+
+name: Unified Routing Rules XML Interface (CURRI)
+description: CURRI is an XACML based API that allows web-service apps to remotely permit, deny, or redirect calls based on regulatory rules and business logic.
+url: /site/curri/
+
+name: Customer Voice Portal (CVP)
+description: Use CVP Custom Elements and the CVP REST API to extend and manage your Customer Voice Portal.
+url: /site/customer-voice-portal/
+
+name: DevNet Developer Support. Support FAQ
+description: DevNet Support FAQ. 1. What are the DevNet Support options? 2. What does having tickets mean? 3. How do I Open a Case? 4. What API's are supported by Developer Services? 5. What help can I receive from TAC Support? 6. I have used all my tickets – can I get more? 7. What is the lifespan of my tickets? 8. When I try to open a ticket for my API, I do not see it on the list. 9. How is Severity defined? 10. What are the response times I can expect? 11. I want to allow another person to use my tickets?
+url: /site/devnet/support/support-tickets/support-faq/
+
+name: Cisco Digital Network Architecture (DNA)
+description: Cisco® Digital Network Architecture (Cisco DNA) is an open, extensible, software-driven architecture that accelerates and simplifies your enterprise network operations.
+url: /site/dna/
+
+name: Energy Managment Suite (EnergyWise)
+description: Cisco Energy Managment (formerly EnergyWise) is used to measure and control the use of energy in a network. You can measure and manage and reduce the energy use of all the connected devices across your network.
+url: /site/energy-management/
+
+name: Finesse
+description: Cisco Finesse is the next-generation agent desktop designed to provide a customizable, user-centric experience in a customer service organization. Customers can integrate Finesse into existing contact center applications, build custom desktops, or even integrate existing applications into Finesse.  Get Started
+url: /site/finesse/
+
+name: Cisco & Google Cloud Dev Center
+description: Combine the power of cloud developer resources and enterprise apps. Get hands-on with the hybrid cloud solution. Modern app development relies on microservices-based architectures that span public clouds, private clouds and connect to on-premise apps. In this hybrid world, developers have the flexibility to: Move apps from on-premise to cloud and vice-versa in a policy-driven manner. Assess threat detection and compliance verification from a single interface. Access services across public and on-premise environments efficiently and securely. Build on-premise IoT solution using network edge computing, on-premise Kubernetes, and be able to communicate securely with pods in Google Container Engine (GKE) or service in Google Cloud Platform (GCP). Vice versa, apps built on GCP can also connect and consume on-premise services and systems.
+url: /site/google/
+
+name: Hosted Collaboration Solution (HCS)
+description: Application Integration to Cisco UC Cloud Applications, Service Fulfillment, Service Assurance, and Billing. Extend Collaboration Applications in the Cloud
+url: /site/hcs/
+
+name: UC Manager IM & Presence APIs
+description: IM&P APIs allow developers access to instant messaging, availability and roster management via XMPP, BOSH, SIP/SIMPLE, SOAP, and REST.
+url: /site/im-and-presence/
+
+name: IOS XR-6.0
+description: An open and automatable version of IOS-XR.
+url: /site/ios-xr/
+
+name: Cisco IP Phone Services (IPPS)
+description: An integral part of a Cisco AVVID (Architecture for Voice, Video and Integrated Data) solution, IPPS provide access to intelligent network applications and dynamic and interactive communication tools.
+url: /site/ip-phone-services/
+
+name: Cisco MediaSense
+description: Cisco MediaSense is an open standards, network-based platform that provides recording, playback, live streaming, and storage of media, including audio and video, with rich metadata to facilitate easy use. Cisco MediaSense provides an efficient, cost-effective foundation for capturing, preserving, and mining conversations.
+url: /site/mediasense/overview/
+
+name: Cisco Meraki Community
+description: Get the most from Meraki in this community. Read blogs from Meraki experts, do learning labs, use our sandboxes, and ask questions.
+url: /site/meraki-community/
+
+name: Meraki
+description: Locate devices in real-time, collect marketing data, engage customers with Bluetooth, and automate your network deployment. Meraki makes it simple with our development partners, APIs, and sample code.
+url: /site/meraki/
+
+name: Cisco AnyConnect Network Visibility Module (NVM)
+description: Cisco AnyConnect NVM collects standard flows from endpoints (e.g., laptops) along with additional context information.  Because AnyConnect NVM use standards-based Netflow (IPFIX) technology you can leverage this rich data in your collector platform.
+url: /site/network-visibility-module/
+
+name: NeXt UI
+description: Discover how to build power Network User Interfaces with NeXt UI
+url: /site/neXt/
+
+name: Open Platform for Network Function Virtualization (OpenNFV)
+description: OPNFV (Open Platform for Network Function Virtualization – www.opnfv.org) has set out to become the base infrastructure layer for running virtual network functions, much like Linux is the base operating system for a large number of network devices.
+url: /site/opnfv/
+
+name: Prime Home Plus Applications
+description: Cisco Prime™ Home is a cloud-based network management platform based on the Broadband Forum's TR-069 suite of protocols for management of devices in the home. The Prime Home Plus applications suite provides a set of value-added applications that you can integrate into your Linux-based device firmware.
+url: /site/prime-home-apps/overview/
+
+name: Cisco Prime Infrastructure
+description: Cisco Prime Infrastructure provides lifecycle management and network service assurance network-wide, for both wired and wireless devices.
+url: /site/prime-infrastructure/
+
+name: Cisco Prime Network Registrar
+description: Cisco Prime Network Registrar is a comprehensive DHCP, DNS, IPAM (DDI) application suite. It supports network administrators interested in providing a consistent implementation of policies, client classes, and scope templates via a command line or web based cluster management interface. Using integrated real-time reporting features, administrators can access subnet usage and IP lease history data from both Regional and Local clusters. Cisco Prime Network Registrar includes support for dual stack IPv4 and IPv6 deployment on a single server and critical DHCP and DNS features which are needed by customers interested in managing a successful transition from IPv4 to IPv6. DHCPv6 services include basic address assignment, prefix delegation, and stateless and stateful auto configuration.
+url: /site/prime-network-registrar/
+
+name: Python Network Automation
+description: Python is not the only language being used for network automation but the combination of being an easy to learn language, and many code samples and utilities has made it a go-to language for network engineers. Checkout all the resources available for developing with Python and Cisco Networking!
+url: /site/python/
+
+name: Contact Center Reporting (CCR)
+description: Cisco's Contact Center Enterprise databases contain extensive detail and interval data about activities at the Cisco IVR (Customer Voice Portal or IP-IVR), agent and call activity as well as information about chat and email activities in the contact center. This area is intended to share information and sample reports, and answer questions about Cisco Contact Center Enterprise databases.  Stock reporting is available with Cisco Unified Intelligence Center. Cisco Unified Intelligence Center is a web-based, graphical user interface that provides real-time and historical reporting in a wizard-based application for Cisco Unified Contact Center Enterprise and Hosted, and Customer Voice Portal.  Unified Intelligence Center is built on an extensible interactive web framework, which allows partners and customers to extend the boundaries of traditional contact center reporting to an information portal where data can be integrated from multiple sources and shared throughout the organization.
+url: /site/reporting/overview/
+
+name: Security Dev Center
+description: Cisco Security supports third-party integration across its portfolio with 18+ open APIs and integration points.
+url: /site/security/
+
+name: Stealthwatch Data Exporter
+description: The Cisco Stealthwatch Data Exporter allows users to take flow data from the Stealthwatch system to be processed and stored by their own application.
+url: /docs/stealthwatch-data-exporter/
+
+name: Cisco Support APIs
+description: Cisco Support APIs allow Cisco Partner Support Services (PSS) partners and Cisco Smart Net Total Care (SNTC) customers to programmatically access and consume Cisco Support data in the cloud in a simple, secure, and scalable manner.
+url: /site/support-apis/
+
+name: StadiumVision Mobile (SVM)
+description: StadiumVision Mobile (SVM) Software Development Kit (SDK) is a set of software libraries that enable rapid development of fan applications allowing SVM capabilities to be integrated into a new or existing mobile app. The libraries provide the necessary functionality to take advantage of the SVM Streamer services and also provide performance metrics to the SVM Reporter.
+url: /site/svm/
+
+name: Unified CM Serviceability
+description: Unified CM Serviceability is a collection of services and tools designed to monitor, diagnose, and address issues specific to Cisco Unified Communications Manager.
+url: /site/sxml/
+
+name: Task Routing for Contact Center
+description: Task routing interface enables Cisco's Contact Center Enterprise customers to easily integrate their mobile or web-based multichannel applications with CCE's dynamic routing engine, queuing mechanism and flexible reporting. This along with Cisco's Context Service will help customers create a seamless Omnichannel experience for their customers interacting across voice and other digital non-voice channels of communication.
+url: /site/task-routing/
+
+name: Cisco Telepresence AV Integrator
+description: Here you find Information and productivity tools for integration professionals and developers working with our products. Join the community today, contribute and stay up-to-date with resources directly from our developers.  When you look for API documentation, integration tools, product information. When you have questions on how to use the APIs, integration problems where you think the issues may lie in our products, know the answer to a question raised on the forum, hints and tips to share with the community, suggestions for the API or integration features that may interest others.  This is not a general product support site. For support, please contact your Cisco representative. This site focuses on products relevant for integrators and developers.
+url: /site/tp-av-integrator/home/
+
+name: UC - Manager SIP
+description: Session Initiation Protocol (SIP) is a Internet Engineering Task Force (IETF) standard for multimedia communication and conferencing over IP.
+url: /site/uc-manager-sip/
+
+name: UCS Programmable Infrastructure
+description: UCS Unified APIs provide a common interface for Unified HyperFlex and hyperconverged UCS deployments. Combine the Unified APIs with UCS Director, Cloud Center and Intersight APIs for complete programmatic access for infrastructure, DevOps and application developers.
+url: /site/ucs-dev-center/
+
+name: Cisco Unity Connection
+description: Cisco Unity Connection offers a collection of REST-based APIs for building web-based or desktop applications for all types of businesses. 
+url: /site/unity-connection/overview/
+
+name: Cisco User Data Services (UDS)
+description: UDS is a REST based API that allows end useres to insert, retrieve, update, and remove their own user data from Cisco Unified CM.
+url: /site/user-data-services/
+
+name: Universal SGMII and Universal XGMII MAC-PHY Interface
+description: The Universal Serial Gigabit Media Independent Interface (USGMII) is an extension of the current SGMII and QSGMII. USGMII provides flexibility to add new features while maintaining backward compatibility. Previous definition/implementations cover single (SGMII) and quad (QSGMII) options. This specification defines USGMII option to support 4x1GE/8 x1GE network ports and 5G/10G PHY/MAC SERDES interface speed respectively.
+url: /site/usgmii-usxgmii/
+
+name: Utilities Industry : An Overview
+description: Today’s utility industry is focused on securing critical infrastructure and modernizing the aging electric grid.
+url: /site/utilities-industry/overview.gsp
+
+name: WAN Automation Engine (WAE)
+description: Cisco's WAN Automation Engine (WAE) is first Predictive Software Defined Networking Platform designed for Wide Area Networks (WANs).
+url: /site/wan-automation-engine/
+
+name: YANG Development Kit
+description: Model-driven APIs for simplified programmability of your network device
+url: /site/ydk/
+
+name: Tropo
+description: Tropo makes it simple to automate communications, connecting your code to the phone network with both voice and messaging. You use the web technologies you already know and Tropo’s powerful cloud API to bring real-time communications to your apps.
+url: https://www.tropo.com/
+

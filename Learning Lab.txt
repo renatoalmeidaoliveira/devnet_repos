@@ -1,0 +1,260 @@
+name: Overview of REST APIs  (Japanese)
+description: REST API の利用方法の基本と、Postman を使用して REST API のテストを行う方法について学びます。
+url: https://learninglabs.cisco.com/lab/00-prep-02-overview-of-rest-apis-jp/step/1
+
+name: Overview of REST APIs (Japanese)
+description: このラーニング ラボでは、REST API の利用方法の基本と、Postman を使用して REST API のテストを行う方法について学びます。
+url: https://learninglabs.cisco.com/lab/04-rest-01-overview-of-rest-apis-jp/step/1
+
+name: Using Python to Interface with REST APIs (Japanese)
+description: Python を使用した Webex API について学習します。
+url: https://learninglabs.cisco.com/lab/04-rest-03-interfacing-with-rest-apis-using-python-jp/step/1
+
+name: Introduction to Configuration Management
+description: Overview of the configuration management solution space
+url: https://learninglabs.cisco.com/lab/ansible-01_config-mgmt-intro/step/1
+
+name: Introduction to Ansible
+description: Start your automation journey by learning the Ansible tool
+url: https://learninglabs.cisco.com/lab/ansible-02_ansible-intro/step/1
+
+name: Getting Hands On with Ansible
+description: Learn by doing with Ansible
+url: https://learninglabs.cisco.com/lab/ansible-03_ansible-hands-on/step/1
+
+name: APIC-EM APIs with Python: Part 1 - The Basics
+description: The purpose of this learning lab is to understand the basics of the APIC-EM Northbound REST API. APIC-EM allows you to develop your own custom controller or add dynamic SDN functionality directly into your own applications. 
+url: https://learninglabs.cisco.com/lab/apic-em-basic/step/1
+
+name: APIC-EM REST API with POSTMAN and Python Applications
+description: Learn how to call APIC-EM's REST APIs using POSTMAN and the Python programming language.
+url: https://learninglabs.cisco.com/lab/apic-em-rest-api-python-app/step/1
+
+name: Introduction to CI/CD
+description: Automate code changes, testing, packaging and production deployments.
+url: https://learninglabs.cisco.com/lab/cicd-intro/step/1
+
+name: Coding 101 - REST API Basics (Japanese)
+description: このラボでは、REST API の利用方法の基本と、Postman を使用して REST API のテストを行う方法について学びます。
+url: https://learninglabs.cisco.com/lab/coding-101-rest-basics-ga-jp/step/1
+
+name: Coding 102: Calling REST APIs from Python (Japanese)
+description: ここでは、PythonでのREST APIのコールをする方法についての基礎を学びます
+url: https://learninglabs.cisco.com/lab/coding-102-rest-python-ga-jp/step/1
+
+name: Coding 203: Getting Input from a User Using Python
+description: Learn the basics of how to get input from a user
+url: https://learninglabs.cisco.com/lab/coding-203-getting-input/step/1
+
+name: Coding 206: How to use the Python logging module
+description: Learn the basics of how to use the logging module
+url: https://learninglabs.cisco.com/lab/coding-206-logging/step/1
+
+name: Coding 207: Python - Putting it all together
+description: Use all of the Coding 201 skills to retrieve and save a list of devices of specific type.
+url: https://learninglabs.cisco.com/lab/coding-207-putting-it-together-ga/step/1
+
+name: Environment Setup for the DevNet Express Cloud Collaboration for Software developers
+description: Instructions to install the pre-requisites, tools and online accounts needed to complete the DevNet Express Cloud Collaboration learning track for Software Developers
+url: https://learninglabs.cisco.com/lab/collab-dne-event-setup-sd/step/1
+
+name: Overview of Modules In The IT-Pro Track
+description: Learn about the technologies covered in each module.
+url: https://learninglabs.cisco.com/lab/collab-dne-overview-of-modules-itp/step/1
+
+name: Collaboration: Jabber Web SDK
+description: Explore the Jabber Web SDK and make a live voice and video call from a browser
+url: https://developer.cisco.com/learning/lab/collab-jabber/step/1
+
+name: Collaboration: Jabber Guest - Web
+description: Learn how to embed Cisco Jabber Guest voice and video capabilities into a sample Web application
+url: https://learninglabs.cisco.com/lab/collab-jg/step/1
+
+name: Python Primer Level 2
+description: Learn the basics of Python data types, loops and functions.
+url: https://learninglabs.cisco.com/lab/collab-python-primer-2-itp/step/1
+
+name: Understanding the OAuth Flow of a Cisco Webex Integration
+description: Learn how to register a new Cisco Webex Integration, and authenticate from a browser-based application
+url: https://learninglabs.cisco.com/lab/collab-spark-auth/step/1
+
+name: Deploy a Cisco Webex Bot to Heroku
+description: Go through the steps of creating an Heroku application and deploying a nodeJS bot sample. Learn how Botkit can persist user preferences.
+url: https://learninglabs.cisco.com/lab/collab-spark-bot-hosting/step/1
+
+name: Run a Cisco Webex Bot Locally (VS Code)
+description: Configure, deploy and test an interactive Webex bot hosted on your local PC
+url: https://learninglabs.cisco.com/lab/collab-spark-botl-itp/step/1
+
+name: Run a Cisco Webex Bot Locally
+description: Launch a NodeJS bot example on your local machine and register it as a Cisco Webex Bot.
+url: https://learninglabs.cisco.com/lab/collab-spark-botl-ngrok/step/1
+
+name: Building Python Requests to Read and Create Webex API Items
+description: Learn how construct REST API calls in Python to enable retrieving, filtering and creating Webex rooms and messages.
+url: https://learninglabs.cisco.com/lab/collab-spark-calling-apis-from-python-itp/step/1
+
+name: Deploy a Cisco Webex Integration
+description: Learn to deploy a nodejs example on Heroku, and register it as an Cisco Webex Integration.
+url: https://learninglabs.cisco.com/lab/collab-spark-intd-heroku/step/1
+
+name: Generating Python Webex API Code using Postman
+description: Learn how to use Postman's code-generation feature to create a simple Webex API Python script
+url: https://learninglabs.cisco.com/lab/collab-spark-interfacing-with-rest/step/1
+
+name: Create Spaces, Add Participants, Post Messages from Postman
+description: Invoke the Cisco Webex REST API from the Postman REST client to create spaces, add participants and post messages.
+url: https://learninglabs.cisco.com/lab/collab-spark-message/step/1
+
+name: Embedding a Cisco Webex SDK Video 'Space Widget' into a Web App
+description: Learn how to take a standard HTML web page and embed a Cisco Webex SDK 'Space Widget' to easily enable Cisco Webex powered collaboration.
+url: https://learninglabs.cisco.com/lab/collab-spark-video-widget-meet/step/1
+
+name: Create a 'No-Code' Webex App with Zapier
+description: Create a simple app to retrieve Twitter messsages into Webex using the Zapier cloud API platform
+url: https://learninglabs.cisco.com/lab/collab-spark-zapier/step/1
+
+name: Experiment With Cisco Webex Webhooks
+description: Create a Webhook that will subscribe to new messages, and drill into Webhooks events in real-time
+url: https://learninglabs.cisco.com/lab/collab-sparkwebhook/step/1
+
+name: Developer Cloud Services Tour
+description: This lab provides a brief introduction and tour of several developer-oriented cloud services that will be used during this learning track.
+url: https://learninglabs.cisco.com/lab/collab-tools-cloud-services-tour/step/1
+
+name: Introduction to Git
+description: Learn the basics of git and how to clone online repository to the local machine.
+url: https://learninglabs.cisco.com/lab/collab-tools-intro-to-git-itp/step/1
+
+name: REST API Basics
+description: Learn the basics of REST APIs, and use Postman to forge REST API queries.
+url: https://learninglabs.cisco.com/lab/collab-tools-rest-api-concepts-itp/step/1
+
+name: Coding and Debugging with a Python IDE (VS Code)
+description: Install, configure and learn to debug Python scripts with the Visual Studio Code integrated development environment.
+url: https://learninglabs.cisco.com/lab/collab-tools-visual-studio-code-ide-itp/step/1
+
+name: Collaboration: UDS
+description: Learn three of Cisco's core Collaboration technologies; User Data Services, Cisco Unity Messaging Interface (CUMI), and the NEW Jabber Guest.
+url: https://learninglabs.cisco.com/lab/collab-uds/step/1
+
+name: Finesse – Basic Supervisor REST APIs with XMPP Events
+description: Learn the basic Finesse supervisor REST APIs with XMPP Events
+url: https://learninglabs.cisco.com/lab/finesse-basic-supervisor-rest-apis-with-xmpp-events/step/1
+
+name: Finesse – Basic User REST APIs
+description: Learn the basic Finesse User REST APIs
+url: https://learninglabs.cisco.com/lab/finesse-basic-user-rest-apis/step/1
+
+name: Finesse – Basic User REST APIs with XMPP Events
+description: Learn the basic Finesse User REST APIs with XMPP Events
+url: https://learninglabs.cisco.com/lab/finesse-basic-user-rest-apis-with-xmpp-events/step/1
+
+name: FMC-REST-API-101: Introduction to Firepower Management Center (FMC) API
+description: This lab gives intoduction to Firepower Management Center (FMC) REST APIs. These APIs automates the management of Firepower Threat Defense (FTD) and Legacy Firepower devices via FMC
+url: https://learninglabs.cisco.com/lab/firepower-restapi-101/step/1
+
+name: FMC-REST-API-106: FMC object(s) and CRUD operations using REST API
+description: The purpose of this learning lab is to understand the basics of the FMC object(s) and CRUD operations using REST API
+url: https://learninglabs.cisco.com/lab/firepower-restapi-106/step/1
+
+name: FMC-REST-API-107: Firewall Policy fundamentals and Policy CRUD
+description:  The purpose of this learning lab is to understand the basics of the FMC policy and learn CRUD operations on access control policy using REST API
+url: https://learninglabs.cisco.com/lab/firepower-restapi-107/step/1
+
+name: FMC-REST-API-109: Creating a Threat Centric AC Policy using the FMC REST API
+description: This lab gives intoduction to creating a Threat Centric AC Policy using the  Firepower Management Center (FMC) REST API using NGFW/FTD devices
+url: https://learninglabs.cisco.com/lab/firepower-restapi-109/step/1
+
+name: FMC-REST-API-110: Using evenstreamer API to identify a potentially compromised host
+description: Expose developers to using the Event Streamer (eStreamer) API to extract events from the Firepower Management Center (FMC) and perform basic analysis of a potentially compromised host
+url: https://learninglabs.cisco.com/lab/firepower-restapi-110/step/1
+
+name: FMC-REST-API-111: Cisco Threat Intelligence Director (TID) APIs and their usage via API Explorer and Postman
+description: This lab gives basic understanding of the available FMC TID APIs and their usage
+url: https://learninglabs.cisco.com/lab/firepower-restapi-111/step/1
+
+name: FMC-REST-API-112: Introduction to Firepower Management Center (FMC) API CRUD operations
+description: This lab gives intoduction to Firepower Management Center (FMC) REST APIs. These APIs automates the management of Firepower Threat Defense (FTD) and Legacy Firepower devices via FMC
+url: https://learninglabs.cisco.com/lab/firepower-restapi-112/step/1
+
+name: Git 101: Branching
+description: Learn the basics of git branching so that you can diverge from the main code base without messing up the main code base.
+url: https://learninglabs.cisco.com/lab/git-branching/step/1
+
+name: Introduction to IMC PowerTool
+description: This Introduction to IMC PowerTool Learning Lab will guide you through the use of IMC PowerTool to connect to a UCS stand-alone server IMC, perform queries against IMC objects, change IMC settings and disconnect from the IMC. UCS IMC Objects are representations of BIOS settings, policies, disk configurations, other logical constructs and physical entities.
+url: https://learninglabs.cisco.com/lab/imc-powertool-101/step/1
+
+name: Introduction to IMC Python SDK
+description: This Introduction to UCS Python Learning Lab will guide you through the use of UCS IMC Python SDK to connect to a UCS stand-alone server IMC, perform queries against IMC objects, change IMC settings and disconnect from the IMC. UCS IMC Objects are representations of BIOS settings, policies, disk configurations, other logical constructs and physical entities.
+url: https://learninglabs.cisco.com/lab/imc-python-sdk-101/step/1
+
+name: Introduction to Git
+description: Learn the basics of git and how to clone online repository to the local machine.
+url: https://learninglabs.cisco.com/lab/intro-to-git/step/1
+
+name: Python Primer Level 1
+description: Learn the basics of Python syntax, operators and conditional statements
+url: https://learninglabs.cisco.com/lab/intro-to-python-primer-1/step/1
+
+name: Networking 103 IP Addresses and Subnetting
+description: Learn about IPv4 addresses, models, subnets and subnetting
+url: https://learninglabs.cisco.com/lab/networking-103-IP-addresses/step/1
+
+name: NSO as a provisioning tool
+description: Using NSO as a service provisioning tool
+url: https://learninglabs.cisco.com/lab/NSO-as-a-provisioning-tool/step/1
+
+name: NSO for Network Engineers
+description: Using NSO as a power-tool to manage device configurations
+url: https://learninglabs.cisco.com/lab/NSO-for-Network-Engineers/step/1
+
+name: Investigate NX-API Options and the NX-OS Object Model
+description: Take a deeper look at JSON-RPC, JSON, XML, and NX-API REST interfaces included with NX-API
+url: https://learninglabs.cisco.com/lab/nxos-intermediate-04_devbox-and-visore/step/1
+
+name: Nexus OS Programmability and Automation Overview
+description: Learn about NX-OS's programmability and automation capabilities.
+url: https://learninglabs.cisco.com/lab/nxos-intro-01_overview/step/1
+
+name: Introduction to NX-API
+description: Explore the robust API capabilities available with Open NX-OS.
+url: https://learninglabs.cisco.com/lab/nxos-intro-03_nxapi-rest/step/1
+
+name: Using Python to Parse JSON
+description: Learn the basics of using Python to parse JSON.
+url: https://learninglabs.cisco.com/lab/python-parsing-json-1/step/1
+
+name: Building a single tenant within APIC
+description: Learn how to build a single tenant with a single- vs a multi-node graph and applying application policies within APIC
+url: https://learninglabs.cisco.com/lab/single-tenant-apic/step/1
+
+name: Introduction to UCS PowerTool Part III
+description: This Introduction to UCS PowerTool Learning Lab will guide you through the use of UCS PowerTool to connect to a UCS Manager, perform queries against UCS Manager objects, create new objects, modify objects, generate PowerTool code from interactions in the UCS GUI and disconnect from the UCS Manager. UCS Manager Objects are representations of pools, policies, other logical constructs and physical entities.
+url: https://learninglabs.cisco.com/lab/ucsm-powertool-103/step/1
+
+name: Introduction to UCS Python SDK Part III
+description: This Introduction to UCS Python Learning Lab will guide you through the use of UCS Python SDK to connect to a UCS Manager, perform queries with simple and complex filters against UCS Manager objects and disconnect from the UCS Manager. UCS Manager Objects are representations of pools, policies, other logical constructs and physical entities.
+url: https://learninglabs.cisco.com/lab/ucsm-python-sdk-103/step/1
+
+name: Intermediate UCS Python SDK Part II
+description: This Intermediate UCS Python Learning Lab will guide you through the use of UCS Python SDK to connect to a UCS Manager, add/set several UCS Manager settings, export UCS Manager configurations (backup), create one-time backup jobs and import a backup export.
+url: https://learninglabs.cisco.com/lab/ucsm-python-sdk-201/step/1
+
+name: WAE Lab 1: Introduction to the WAN Automation Engine
+description: This lab will introduce the Cisco WAN Automation Engine (WAE) using the WAE API to understand the topology of the network. You will also get experience using The POSTMAN rest client, The Python GUI and the WAE GUI desktop application WAE Design.
+url: https://learninglabs.cisco.com/lab/wae-1/step/1
+
+name: NETCONF/YANG on Nexus: Part 1
+description: Learning to use the Cisco NXOS YANG Model.
+url: https://learninglabs.cisco.com/lab/yang_devnet-format_part1/step/1
+
+name: NETCONF/YANG on Nexus: Part 2
+description: Configuring BGP with the Cisco NXOS YANG Model.
+url: https://learninglabs.cisco.com/lab/yang_devnet-format_part2/step/1
+
+name: NETCONF/YANG on Nexus: Part 3
+description: Using OpenConfig YANG Models on Nexus Switches.
+url: https://learninglabs.cisco.com/lab/yang_devnet-format_part3/step/1
+

@@ -1,0 +1,112 @@
+name: IOS XE on CSR Latest Code (ver 16.11) - Always On
+description: The IOS XE on CSR Latest Code Always On Sandbox offers developers shared, VPNless access to an IOS XE device running the latest IOS XE code release available on cisco.com (currently 16.11).  Developers and network engineers can explore the programmability options available within IOS XE, including:  Model Driven Programmability with YANG Data Models and NETCONF and RESTCONF Application Hosting with Guest Shell to support running Linux Applications directly at the edge Develop and execute Python scripts on-box using Guest Shell Day Zero Provisioning with Network Plug and Play (PnP) and Zero Touch Provisioning (ZTP)
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/38ded1f0-16ce-43f2-8df5-43a40ebf752e?diagramType=Topology
+
+name: IOx CI/CD Pipeline
+description: This IOx CI/CD Pipeline Sandbox allows you to experience and skill up on leveraging a Continuous Integration/ Continuous Delivery software development cycle for Cisco IoT and Edge Compute applications. It allows you to take code from a repository, build, commit, publish and deploy docker/container based images into the Cisco IOx Application Ecosystem – all by issuing in a git commit to your repository.  The Sandbox provides an example CI/CD pipeline toolset connected to Cisco's Edge Compute Platform and cloud native application management compliment including Cisco FND w/Fog Director, Cisco IOx, Gogs, Drone and Kubernetes. 
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/fae26205-726c-4635-b995-61aa7ea9b2c6?diagramType=Topology
+
+name: ACI Simulator Reservation
+description: The ACI Sandbox provides a developer with an environment to design, develop and test using the ACI RESTful APIs over http/https with XML and JSON encodings.  OpFlex, the southbound API, is an open and extensible protocol used to transfer policy in XML/JSON between Cisco APIC, and the device in the sample network topology.  The central SDN Controller of the ACI solution, the Application Policy Infrastructure Controller (APIC) manages and configures the policy on each of the switches in the ACI fabric.  Cisco APIC is a unified point for policy-based configuration expressed through group-based policy. The primary function of Cisco APIC is to provide policy authority and policy resolution mechanisms for the Cisco ACI fabric and devices attached to the fabric. Automation is provided as a direct result of policy resolution and renders its effects on the Cisco ACI fabric, so that end users no longer have to touch each network element and manually make sure that all policies are configured appropriately.
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/4fc5c0c5-088c-4813-a860-b58d31520dee?diagramType=Topology
+
+name: Unified Contact Center Express 11.6
+description: This UCCX Sandbox is a preview of the up and coming UCCX 11.6 release. Not all of the 11.6 features will be available and is not guaranteed to be bug free. Please see the Release Notes for the current list of new features available in this preview 11.6 version. The intention of this sandbox is to get a sneak peek into the new features of 11.6 or even get a head start to building your applications against the new 11.6 APIs!
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/3249d041-476a-422d-baff-2d753d86da20?diagramType=Topology
+
+name: Cisco SD-WAN Reservation
+description: The Cisco SD-WAN Sandbox consists a complete virtual SD-WAN environment and all of its components that developers can utilize to develop, debug and test their sample SD-WAN applications. In this Sandbox the developer can develop/test SD-WAN type applications, and interact with the SD-WAN API calls using a variety of REST clients such as POSTMAN.
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/8a5390bf-3017-4dc2-a77b-23b6cf8b2267?diagramType=Topology
+
+name: Istio
+description: This DevNet Istio Sandbox is running on it's own Kubernetes cluster. It automates network infrastructure deployment, scaling, and operations of application containers across clusters of hosts; providing a container-centric infrastructure. 
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/8b9512a7-d2e5-4699-8d7a-393d7434982f?diagramType=Topology
+
+name: Packaged Contact Center Enterprise 12.0
+description: This upgraded Packaged Contact Center Enterprise (PCCE) DevNet sandbox, now includes Voice functionality. PCCE fits within Cisco’s Collaboration product set and is more specifically a Contact Center product. It comes in a packaged format that requires less customization and is easier to setup than UCCE. This lab exposes Finesse Agents which can be designated to handle various tasks and calls. SocialMiner is integrated to provide a manual method to inject tasks towards the agents, but you can also code your own solutions! You can create agents, supervisors, teams, and skill groups; experiment with our sample Finesse Gadget, build your own custom Finesse Gadgets, tinker with our provided Task Script or create your own Task script. The lab includes an internal Cisco tool for generating Voice calls to Agents. 
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/8bdeb202-ccda-4c4a-8325-99bff7983e19?diagramType=Topology
+
+name: Network Assurance Engine
+description: The Cisco Network Assurance Engine solution provides continuous verification and analysis of the entire data center network, giving operators confidence that their network is operating consistent with intent. In this sandbox, developer can configure an assurance group on the NAE cluster to monitor an ACI fabric and do much more!
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/fd4efc55-c723-4be9-89e6-950daf0bba31?diagramType=Topology
+
+name: IOx Fog Director v1.7
+description: The IOx Fog Director reservation based Lab provides a developer with an environment to deploy IOx applications on a simulated environment for Cisco IOx.
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/856d2943-eded-4f45-a76b-e50ee3dc9c02?diagramType=Topology
+
+name: Packaged Contact Center Enterprise 11.5
+description: This upgraded Packaged Contact Center Enterprise (PCCE) DevNet sandbox, now includes Voice functionality. PCCE fits within Cisco’s Collaboration product set and is more specifically a Contact Center product. It comes in a packaged format that requires less customization and is easier to setup than UCCE. This lab exposes Finesse Agents which can be designated to handle various tasks and calls. SocialMiner is integrated to provide a manual method to inject tasks towards the agents, but you can also code your own solutions! You can create agents, supervisors, teams, and skill groups; experiment with our sample Finesse Gadget, build your own custom Finesse Gadgets, tinker with our provided Task Script or create your own Task script. The lab includes an internal Cisco tool for generating Voice calls to Agents. 
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/25b1844a-03b0-4904-9033-7582ef2e6b89?diagramType=Topology
+
+name: Collaboration 10.5
+description: This Collaboration Sandbox is designed for anyone to develop, test and integrate with the Cisco UC products.
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/0fd62b8e-5238-44af-9342-1eaeb8c737af?diagramType=Topology
+
+name: IOS XR Programmability
+description: The IOS XR Programmability Sandbox provides an environment where developers and network engineers can explore the programmability options. These include Model Driven Programmability with YANG Data Models, NETCONF and gRPC, Streaming Telemetry, Service-Layer APIs and Application Hosting. 
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/883f8ea6-54a1-453e-98f5-fc175a2a90de?diagramType=Topology
+
+name: Cisco Container Platform v3.1.0
+description: This DevNet sandbox provides full access to a pre-installed Cisco Container Platform (CCP) installation. From here you can use the CCP API's or UI to create, resize, manage and destroy multiple Kubernetes clusters for CI/CD, development or various parts of your Enterprise organization. All contained within a simple, hyper-converged on-prem infrastructure. 
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/2a998773-f251-4b69-b02d-2b1c115ecc50?diagramType=Topology
+
+name: Collaboration 12.5
+description: This preconfigured Cisco Collaboration Sandbox contains: Unified Communications Manager, Unified Presence Server and Unity Connection Voicemail. It supports integrated Voice, Video, IM, Presence, Cisco endpoint registration, and developer application connection or hosting and full administrative control to all servers.
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/803ec3d3-ab55-4c59-99d0-d3a4dd4233eb?diagramType=Topology
+
+name: Cisco SD-WAN Always On
+description: The Cisco SD-WAN Sandbox consists a complete virtual SD-WAN environment and all of its components that developers can utilize to develop, debug and test their sample SD-WAN applications. In this Sandbox the developer can develop/test SD-WAN type applications, and interact with the SD-WAN API calls using a variety of REST clients such as POSTMAN.
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/4fb544ad-c88c-4227-8b09-5d35aa26a63b?diagramType=Topology
+
+name: Cisco DNA Center Hardware Lab 2
+description: This Cisco DNA Center Sandbox consists of a virtualized controller and real hardware sample network topology, containing network elements and hosts, that developers can utilize for the duration of their reservation. They can utilize APIs to automate common tasks, integrate DNA Center with other services and perform tasks that may not be possible through the Graphical User Interface.
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/2db69bce-66ca-44cb-9b51-05c2d5b4868d?diagramType=Topology
+
+name: Multi-IOS Cisco Test Network
+description: The Multi-IOS Cisco Test Network Sandbox provides a developer with an environment to design, develop and test applications across multiple Cisco Platforms. These platforms include any that can be ran in Cisco VIRL.  It allows topologies like the 8 nodes datacenter, 2 ios router, 9 router mesh and extranet, to be executes manually. This sandbox can also facilitate fairly generic testing of development tools like Puppet, Chef, Ansible, and others. Reserve a sandbox today to start testing! 
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/6b023525-4e7f-4755-81ae-05ac500d464a?diagramType=Topology
+
+name: IOS XE on CSR Latest Code (ver 16.11)
+description: The IOS XE on CSR Latest Code Sandbox offers developers access to an IOS XE device running the latest IOS XE code release available on cisco.com (currently 16.11).  Developers and network engineers can explore the programmability options available within IOS XE, including:  Model Driven Programmability with YANG Data Models and NETCONF and RESTCONF Application Hosting with Guest Shell to support running Linux Applications directly at the edge Develop and execute Python scripts on-box using Guest Shell Day Zero Provisioning with Network Plug and Play (PnP) and Zero Touch Provisioning (ZTP)
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/a5823504-3391-47cc-93a4-8bcadc701839?diagramType=Topology
+
+name: UCS C480ML with NVIDIA GPU Cloud
+description: Get hands-on access to Cisco's AI/ML platform, the UCS C480 ML based on NVIDIA's leading NVlink architecture with 8 x Tesla V100-32GB Tensor Core GPUs. Whether you choose to use the industry-leading developer tooling or baremetal GPU access, leverage massive compute with easy developer access. Get to insight quickly with Nvidia's NGC data science container platform or optimize traditional CPU functions to GPU workloads with RAPIDS.
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/2fff8794-1adc-48c5-b8e1-781cca152cb3?diagramType=Topology
+
+name: Aironet Developer Platform Sandbox
+description: The Aironet Developer Platform Raspberry Pi Sandbox provides a developer with an environment to design, develop and test using the Raspberry Pi. It contains physical network elements and servers that developers can reserve and remotely access so they can develop, debug and test their application.
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/e59a7f47-9d65-48e7-9866-087ece28fa96?diagramType=Topology
+
+name: APIC-EM GA DB Only Reservation
+description: This APIC-EM Lab is running the GA Release which provides the developer the ability to design, develop and test utilizing the APIC-EM development platform with a sample simulated sandbox Lab Topology and Hello World application.   In this reserved Database Only simulated environment the developer can: Develop and test APIC-EM type applications. Use APIC-EM to POST/GET REST calls on simulated network elements.
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/8cd73a9d-d4c3-4716-a352-58ae026c409f?diagramType=Topology
+
+name: Industrial Networking Sandbox with IE3400
+description: The Industrial Networking sandbox with IE3400 lab, provides a developer with an environment to test IoT features in Cisco Catalyst IE3400 Rugged Series switch.
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/097310ec-afbe-4e8b-8611-87fe2a087e1c?diagramType=Topology
+
+name: TRex
+description: Traditionally, routers have been tested using commercial traffic generators and performance has been measured using packets per second (PPS) metrics. As router functionality and services have become more complex, stateful traffic generators have become necessary to provide more realistic application traffic scenarios. The advantages of realistic traffic generators are:  Providing more accurate performance numbers Finding real bottlenecks TRex provides these advantages and more through an innovative and extendable software implementation that leverages standard and open SW and x86/UCS HW. Key aspects of TRex include the following:  Generates and analyses L4-7 traffic and provides in one tool capabilities provided by commercial L7 tools Stateful traffic generator based on pre-processing and smart replay of real traffic templates Generates and amplifies both client and server side traffic Customized functionality can be added Scales to 200Gb/sec on one UCS ( using Intel 40Gb/sec NICS) Low cost Virtual interface support enables TRex to be used in a fully virtual environment without physical NICs and in the following example use cases: Amazon AWS Cisco LaaS TRex on your laptop Self-contained package that can be easily installed and deployed
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/2ec5952d-8bc5-4096-b327-c294acd9512d?diagramType=Topology
+
+name: Identity Services Engine (ISE) with Manufacturer Usage Description (MUD)
+description: Developers can get quick access to  Manufacturer Usage Description (MUD) in this sandbox. MUD is an embedded software standard defined by the IETF that allows IoT Device makers to advertise device specifications, including the intended communication patterns for their device when it connects to the network. The network can then use this intent to author a context-specific access policy, so the device functions only within those parameters.
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/da3e6951-b95d-46b7-b56f-1941546d6320?diagramType=Topology
+
+name: RoomKit 9.9
+description: The Room Kit DevNet Sandbox provides an environment to discover CE programmability for Webex Devices (MX, SX, DX and Room Kit series). Integrators, IT engineers and application developers can discover the extensibility and learn to code for Cisco Webex Devices, by getting hands-on with In-Room Controls and Macros, but also checking status, changing configuration and sending commands through CE xAPI. 
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/a01c15fc-af6e-497a-92ef-138e06cad308?diagramType=Topology
+
+name: Alleantia
+description: This reservation-based lab provides access to the Alleantia IOx application as well as Kinetic Edge Fog Processing Module (EFM). Developers will have access to a sandbox containing the premise components of Alleantia and the Edge Fog Processing Module (EFM). 
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/9d74689f-7bcb-4848-b1cf-c93e64379712?diagramType=Topology
+
+name: ACI Simulator Always On
+description: The ACI Sandbox provides a developer with an environment to design, develop and test using the ACI RESTful APIs over http/https with XML and JSON encodings. The central SDN Controller of the ACI solution, the Application Policy Infrastructure Controller (APIC) manages and configures the policy on each of the switches in the ACI fabric. The primary function of Cisco APIC is to provide policy authority and policy resolution mechanisms for the Cisco ACI fabric and devices attached to the fabric. Automation is provided as a direct result of policy resolution and renders its effects on the Cisco ACI fabric, so that end users no longer have to touch each network element and manually make sure that all policies are configured appropriately.
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/5a229a7c-95d5-4cfd-a651-5ee9bc1b30e2?diagramType=Topology
+
+name: Collaboration 11.0 
+description: This Collaboration Sandbox is designed for anyone to develop, test and integrate with the Cisco UC products
+url: https://devnetsandbox.cisco.com/RM/Diagram/Index/f9aef9a8-33fa-4f70-94b4-b7debc39b3da?diagramType=Topology
+

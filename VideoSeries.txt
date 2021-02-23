@@ -1,0 +1,56 @@
+name: Programming Fundamentals
+description: Jumpstart your journey into Network Programmability with this quick introduction to the core programming fundamental topics you'll explore.
+url: https://developer.cisco.com/video/net-prog-basics/01-programming_fundamentals
+
+name: Python Part 1: Python Language and Script Basics
+description: Python is all the rage for network programmability but why?  And how can you get started?
+url: https://developer.cisco.com/video/net-prog-basics/01-programming_fundamentals/python_part_1
+
+name: Python Part 3: Useful Python Libraries for Network Engineers
+description: Jump into Python for Networking in this lesson where you'll learn some of the most useful libraries.
+url: https://developer.cisco.com/video/net-prog-basics/01-programming_fundamentals/python_part_3
+
+name: REST APIs Part 1: HTTP is for more than Web Browsing
+description: Learn what makes up a REST API and how to get started using them.
+url: https://developer.cisco.com/video/net-prog-basics/01-programming_fundamentals/rest_part_1
+
+name: Goodbye SNMP <hello> NETCONF!
+description: Put those new YANG skills to work with NETCONF in this lesson.
+url: https://developer.cisco.com/video/net-prog-basics/02-network_device_apis/netconf
+
+name: NX-API Part 1: Get Started with APIs and Nexus
+description: Explore NX-API CLI for quickly getting started programming Open NX-OS with your CLI skills.
+url: https://developer.cisco.com/video/net-prog-basics/02-network_device_apis/nxapi_part_1
+
+name: Learn to CRUD with GET, POST and DELETE using RESTCONF
+description: Get started with the standard REST API for the network, RESTCONF
+url: https://developer.cisco.com/video/net-prog-basics/02-network_device_apis/restconf
+
+name: ACI Programmability Part 2: Using the ACI Toolkit
+description: See how the ACI Toolkit makes programming APIC with Python simple and straightforward.
+url: https://developer.cisco.com/video/net-prog-basics/03-network_controllers/aci_part_2
+
+name: Cisco DNA APIs Part 2: Troubleshooting with APIC-EM Programmability
+description: Put your API skills to work making troubleshooting simpler by crafting a Python script to do the heavy discovery work for you.
+url: https://developer.cisco.com/video/net-prog-basics/03-network_controllers/apicem_part_2
+
+name: Application Hosting and the Network
+description: The switches and routers in your network can do much more than just pass packets these days.  Edge or Fog computing is the next big thing, and in this module learn how Linux, Python and Containers can all be hosted at the edge.
+url: https://developer.cisco.com/video/net-prog-basics/04-application_hosting
+
+name: Python at the Edge: Super Charged Network Event Management
+description: Building on Guest Shell, Python is now available on your network devices enabling all sorts of possiblities.  Check them out in this lesson!
+url: https://developer.cisco.com/video/net-prog-basics/04-application_hosting/python_onbox
+
+name: NetDevOps
+description: NetDevOps is about bringing the culture, tools, and best practices from DevOps to networking.  Get started with configuration management for the network in this module.
+url: https://developer.cisco.com/video/net-prog-basics/05-netdevops
+
+name: Ansible Part 2: Using Ansible for Network Configuration
+description: With the basics of Ansible and server management under your belt, it's time to move to the network and see how moderinize network configuration management.
+url: https://developer.cisco.com/video/net-prog-basics/05-netdevops/ansible_part_2
+
+name: Ansible Part 3: Your Network As Code
+description: See what is possible when you embrace NetDevOps and treat your "Network as Code" in this lesson.
+url: https://developer.cisco.com/video/net-prog-basics/05-netdevops/ansible_part_3
+

@@ -1,0 +1,628 @@
+name: Broadworks Documents
+description: Cisco BroadWorks is a carrier-grade unified communication software platform, optimized for performance and scale. 
+url: /docs/broadworks/
+
+name: pyATS: REST Connection
+description: Rest is a package containing a pyATS connection class implementation that allows pyATS scripts to connect to the device via REST using topology/YAML format.
+url: /docs/rest-connector/
+
+name: Cisco Business Dashboard API
+description: Cisco Business Dashboard provides network and lifecycle management for networks built from Cisco 100 to 500 Series routers, switches, and wireless access points. 
+url: /docs/business-dashboard/
+
+name: Genie documentation
+description: Genie is the pyATS SDK which contains all the tools needed for Network Test Automation
+url: /docs/genie-docs/
+
+name: Genie: Library API Browser
+description: 
+url: https://pubhub.devnetcloud.com/media/genie-feature-browser/
+
+name: Crosswork
+description: Cisco Crosswork is a microservices platform that brings together streaming telemetry, big data, and model-driven application programming interfaces (APIs) to redefine service provider network operations. 
+url: /docs/crosswork/
+
+name: Get started with pyATS
+description: The Get Started with pyATS Guide introduces you to the features and functionality of the pyATS solution for network test automation.
+url: /docs/pyats-getting-started/
+
+name: Network Assurance Engine
+description: The Cisco Network Assurance Engine (NAE) REST API provides an alternative operation method to the Cisco NAE GUI. The REST API gives programmatic access to all assurance models in addition to providing fully automatable management of the Cisco NAE.
+url: /docs/network-assurance-engine/
+
+name: Video Surveillance Manager
+description: This document describes the Cisco Video Surveillance (Cisco VSM) version 2 APIs used to display video from a Cisco VSM) Release 7.6 or higher deployment in a custom client application. 
+url: /docs/video-surveillance-manager/
+
+name: Introduction to Ansible modules for FTD 6.3.0
+description: Documentation for a collection of Ansible modules that automate configuration management and execution of operational tasks on Cisco Firepower Threat Defense (FTD) devices. 
+url: /site/ftd-ansible/
+
+name: Genie: Reusable Check Truth Engine
+description: A predicate is a simple truth checker object inheriting from Predicate.
+url: /docs/genie-predcore/
+
+name: Virtual Topology System (VTS)
+description: Cisco Virtual Topology System (Cisco VTS) is a standards-based, open software overlay management and provisioning system for both MPLS Segment Routing (MPLS-SR) and BGP EVPN VxLAN Network Fabrics. It provides automation for network-fabric provisioning for both virtual and physical infrastructures, providing a rich set of automation and programmability capabilities to enhance the deployment of cloud-based services.
+url: /docs/virtual-topology-system/
+
+name: Cisco Administrative XML (AXL) Versioning
+description: The AXL interface supports multiple AXL schema versions which provide an abstraction layer between AXL Applications and the Unified CM database. Use of AXL Versioning enables developers to support multiple Unified CM releases and maintain backward compatibility during customer upgrades.
+url: /site/axl/discover/versioning/
+
+name: Cisco Administrative XML (AXL) Documentation - Previous Versions
+description: 
+url: /site/axl/documents/previous-versions/
+
+name: Cisco Administrative XML (AXL) Product Related Documentation
+description: 
+url: /site/axl/documents/product-related-documentation/
+
+name: Cisco Administrative XML (AXL) FAQs
+description: 
+url: /site/axl/help/faqs/
+
+name: Try Cisco Administrative XML (AXL) APIs
+description: If you would like to explore Cisco AXL capabilities, or start developing your proof-of-concept solution, check out the DevNet Sandbox UC/Collaboration labs. These labs are free-to-access, reservable on a first-come basis 24x7 and provide full administrative access for flexibility in developing UC applications with AXL features.
+url: /site/axl/learn/try-axl-apis/
+
+name: Cisco Administrative XML (AXL) Tutorials
+description: 
+url: /site/axl/learn/tutorials/
+
+name: Cisco Administrative XML (AXL) Tutorials: Manage CMC and FAC with PHP and AXL
+description: This is a tutorial on how to use PHP and AXL to manage your Client Matter Codes and Forced Authorization Codes. We’ll start by reviewing how to create a PHP Soap Client for AXL, and then address the various ways to manage these codes. This tutorial uses PHP 5.5.15 and CUCM 10.5 along with the AXL toolkit that comes with CUCM 10.5.
+url: /site/axl/learn/tutorials/axl-php-fac-cmc/
+
+name: Cisco Administrative XML (AXL) Tutorials: AXL and PHP Primer
+description: PHP is a terrific language for processing the AXL Soap API. The built-in Soap handling is very easy to use. Plus, you can install PHP separately from your web server and run PHP scripts from the command line like you would any other scripting language. This tutorial uses PHP 5.6.4 and CUCM 10.5 along with the AXL toolkit that comes with CUCM 10.5.
+url: /site/axl/learn/tutorials/axp-php-primer/
+
+name: Cisco Emergency Responder (CER) Overview
+description: Cisco Emergency Responder (CER) is an emergency communication system that helps you respond to a crisis quickly and efficiently. It also maintains a record of the emergency calls that your system receives so that you can access this information later.
+url: /site/cer/discover/overview/
+
+name: Cisco Instant Connect SDK Downloads
+description: 
+url: /site/cisco-instant-connect/downloads/
+
+name: Cisco Instant Connect Tutorial - Importing the Cisco Instant Connect sample application
+description: The Cisco Instant Connect sample applications show how to use and implement the Cisco Instant Connect SDK. If you choose to use an Integrated Development Environment (IDE), you will first need to successfully import the sample code to your selected environment. This tutorial will explain how to build and deploy the Cisco Instant Connect sample applications.
+url: /site/cisco-instant-connect/sample-app/
+
+name: CMX Mobility Services Developer Documents
+description: You can use the Mobility Services APIs to enhance and personalize your applications by leveraging the capabilities of the different components of the Cisco Connected Mobile Experiences (CMX) solution.
+url: /docs/cmx-mobility-services/
+
+name: Computer Telephony Integration Object Server (CTIOS) Documentation
+description: CTIOS brings several major advances to developing custom CTI integration solutions. The CTIOS Client Interface Library (CIL) provides an object-oriented and event driven application programming interface (API), while the CTIOS server does all the `heavy-lifting' of the CTI integration: updating call context information, determining which buttons to enable on softphones, providing easy access to supervisor features (for IPCC), and automatically recovering from fail-over scenarios.
+url: /site/ctios/documentation/
+
+name: Cisco Unified Routing Rules Interface (CURRI) Authentication
+description: When a secure connection is desired, a HTTPS URI must be configured in the External Call Control Profile.  When HTTPS is provisioned, Unified CM uses mutual authentication with a self-signed certificate or a CA issued certificate to communicate to the web service.
+url: /site/curri/discover/authentication/
+
+name: Build a Cisco Unified Routing Rules Interface (CURRI) Development Lab
+description: To begin working with CURRI, you will need to create a lab that has Cisco Unified Communications Manager installed on a server that is accessible from your application server.
+url: /site/curri/discover/build-a-development-lab/
+
+name: How does Cisco Unified Routing Rules Interface (CURRI) work?
+description: 
+url: /site/curri/discover/how-does-curri-work/
+
+name: Cisco Unified Routing Rules Interface (CURRI) Sample App: Creating a Route Server
+description: The "Routing Rules Sample Application" is a script written in Python. It contains a HTTP server that supports both HTTP and HTTPS. The application accepts XACML data via the POST method, parses the request and returns an XACML response.
+url: /site/curri/downloads/sample-apps/
+
+name: Cisco Unified Routing Rules Interface (CURRI) FAQs
+description: 
+url: /site/curri/help/faqs/
+
+name: Cisco Unified Routing Rules Interface (CURRI) How to Monitor Performance
+description: 
+url: /site/curri/learn/how-to/monitor-performance/
+
+name: Getting Started with Customer Voice Portal (CVP)
+description: 
+url: /site/customer-voice-portal/discover/getting-started/
+
+name: Customer Voice Portal (CVP) Custom Elements Documents
+description: 
+url: /site/customer-voice-portal/documents/custom-elements/
+
+name: Customer Voice Portal (CVP) REST API Documents
+description: 
+url: /site/customer-voice-portal/documents/rest-api/
+
+name: Customer Voice Portal (CVP) VVB REST API Documents
+description: 
+url: /site/customer-voice-portal/documents/virtual-voice-browser/
+
+name: Customer Voice Portal (CVP) REST API Sample Code
+description: 
+url: /site/customer-voice-portal/downloads/rest-api-sample-code/
+
+name: UCS E-Series Servers Images and Guides
+description: UCS E-Series Servers Images and Guides
+url: /site/e-series/documentation/
+
+name: Cisco Energy Manager: Available Device Proxies
+description: Available Device Proxies
+url: /site/energy-management/proxy/device/
+
+name: Extension Mobility API (EMAPI) Build a Development Lab
+description: To begin working with Extension Mobility APIs, you will need to create a lab that has Cisco Unified Communications Manager (CUCM) installed on a server that is accessible from your application server. You will also need a phone, such as a softphone, registered with CUCM.
+url: /site/extension-mobility/discover/build-a-development-lab/
+
+name: Extension Mobility API (EMAPI) Getting Started
+description: Extension Mobility API (EMAPI) Getting Started
+url: /site/extension-mobility/discover/getting-started/
+
+name: What is Extension Mobility API (EMAPI)?
+description: The Extension Mobility API is an XML-based HTTP interface that allows applications to remotely invoke the extension mobility feature on behalf of a user.
+url: /site/extension-mobility/discover/what-is-extension-mobility/
+
+name: Extension Mobility API (EMAPI) Developer Guide
+description: The Cisco Unified Communications Manager (Unified CM) Extension Mobility feature (E/M) allows end-users to access their personal Cisco Unified IP Phone configuration, including directory number, line appearances, phone services, and speed dials, from any other E/M-enabled phone on the UCM system via a simple login user interface on the phone.
+url: /site/extension-mobility/documents/latest-version/
+
+name: Extension Mobility API (EMAPI) Previous Versions Developer Guides
+description: Version 9.1(1) and older
+url: /site/extension-mobility/documents/previous-version/
+
+name: Extension Mobility API (EMAPI) "Hello World" UserQuery
+description: The UserQuery operation returns the user ID that is logged in to the specified device 
+url: /site/extension-mobility/learn/how-to/hw-userquery/
+
+name: Finesse
+description: Cisco Finesse is the next-generation agent desktop designed to provide a customizable, user-centric experience in a customer service organization. Customers can integrate Finesse into existing contact center applications, build custom desktops, or even integrate existing applications into Finesse.  Get Started
+url: /docs/finesse/
+
+name: Provision and manage Hosted Collaboration Solution (HCS) deployments
+description: 
+url: /site/hcs/discover/get-started/
+
+name: Hosted Collaboration Solution (HCS) Billing Applications
+description: Cisco Unified Communications Manager supports Call Detail Record (CDR) Analysis and Reporting (CAR).
+url: /site/hcs/discover/get-started/billing/
+
+name: Cisco Collaboration Application APIs in Hosted Collaboration Solution (HCS)
+description: Many of the HCS collaboration applications provide APIs that developers can use to extend the collaboration services offered in HCS. You can find documentation, and sample code on the dedicated tech center for each API.
+url: /site/hcs/discover/get-started/collaboration-applications-apis/
+
+name: Hosted Collaboration Solution (HCS) Functional Overview
+description: High-level view of the Cisco HCS components.
+url: /site/hcs/discover/hcs-functional-overview/
+
+name: Learn about Hosted Collaboration Solution (HCS)
+description: Cisco Hosted Collaboration Solution (HCS) delivers applications within a highly secure, cloud-ready, virtualized platform under a centralized management system.
+url: /site/hcs/discover/learn-about-hcs/
+
+name: The Hosted Collaboration Solution (HCS) APIs
+description: HCS offers several groups of APIs that allow you to provision, monitor and integrate with a cloud deployment. Developers can also use the APIs offered by the Collaboration applications to extend the collaboration services offered in HCS.
+url: /site/hcs/discover/the-hsc-apis/
+
+name: Hosted Collaboration Solution (HCS) How To
+description: 
+url: /site/hcs/learn/how-to/
+
+name: UC Manager IM & Presence Developer Guide
+description: Cisco Unified Communications Manager IM & Presence supports XMPP (Extensible Messaging and Presence Protocol ), SIP/SIMPLE (SIP for Instant Messaging and Presence Leveraging Extensions ), Bidirectional Streams over Synchronous HTTP (BOSH) interface, Simple Object Access Protocol (SOAP) interface or a REST (XML/HTTP) interfaces. These interfaces are used for the development of presence applications to external clients or other applications.
+url: /site/im-and-presence/documents/
+
+name: UC Manager IM & Presence: CAXL Browser Compatibility
+description: The following matrix illustrates the various combinations of web browser and operating system which the latest version of CAXL is known to function with. This is not an exhausted matix but merely lists those combinations which have been officially tested and which are officially supported.
+url: /site/im-and-presence/documents/caxl/caxl_compatibility/
+
+name: UC Manager IM & Presence Documentation
+description: All documentation related to Cisco AJAX XMPP Library is packaged within the SDK debug/release zip file. After extracting the contents of the CAXL zip file, the documentation can be found by opening /doc/index.html within a browser.
+url: /site/im-and-presence/documents/caxl/latest_version/
+
+name: UC Manager IM & Presence Documentation Latest Version
+description: Cisco Unified Communications Manager IM & Presence supports XMPP (Extensible Messaging and Presence Protocol ), SIP/SIMPLE (SIP for Instant Messaging and Presence Leveraging Extensions ), Bidirectional Streams over Synchronous HTTP (BOSH) interface, Simple Object Access Protocol (SOAP) interface or a REST (XML/HTTP) interfaces. These interfaces are used for the development of presence applications to external clients or other applications.
+url: /site/im-and-presence/documents/client_config_web_service/latest_version/
+
+name: Cisco IP Phone Services (IPPS) Getting Started
+description: 
+url: /site/ip-phone-services/discover/getting-started/
+
+name: Cisco IP Phone Services (IPPS) Product Software
+description: 
+url: /site/ip-phone-services/downloads/
+
+name: Cisco IP Phone Services (IPPS) FAQs
+description: 
+url: /site/ip-phone-services/help/faqs/
+
+name: Cisco Jabber Guest for Android API
+description: 
+url: /site/jabber-guestsdk/documents/android-api/
+
+name: Jabber Guest Android SDK v10.6.10
+description: 
+url: /site/jabber-guestsdk/documents/android-api/v10_6_10/
+
+name: Cisco Jabber Guest for iOS API
+description: 
+url: /site/jabber-guestsdk/documents/guest-ios-api/
+
+name: Jabber Guest iOS SDK v10.6.8 and v10.6.7
+description: 
+url: /site/jabber-guestsdk/documents/guest-ios-api/v10_6_7-10_6_8/
+
+name: Jabber Guest iOS SDK v10.6.9
+description: 
+url: /site/jabber-guestsdk/documents/guest-ios-api/v10_6_9/
+
+name: Jabber Guest for iOS
+description:  Jabber Guest for iOS allows external (public) users to call internal enterprise endpoints and engage in two-way video communications over the public Internet. When configured correctly, the Jabber Guest Web Server allows guests to establish video calls that reach inside the firewall to contact support, experts, and other services from their iOS device. This functionality is enabled through the Jabber Guest Software Development Kit (SDK) for iOS. The Jabber Guest SDK for iOS coordinates and simplifies the implementation, use, and quality of two-way video calls from within your application. This document covers the software and resources a developer would need to use the Jabber Guest SDK to integrate into their iOS mobile applications.
+url: /site/jabber-guestsdk/documents/guest-ios-dev-guide/v11_0_0/
+
+name: Cisco Jabber Guest API
+description: 
+url: /site/jabber-guestsdk/documents/guest-server-api/
+
+name: Jabber Guest API v10.6.9
+description: 
+url: /site/jabber-guestsdk/documents/guest-server-api/v10_6_9/
+
+name: Cisco Jabber Guest Links Management Sample Downloads
+description: 
+url: /site/jabber-guestsdk/downloads/links-management/
+
+name: Cisco Jabber Guest SDK for Web Downloads
+description: 
+url: /site/jabber-guestsdk/downloads/web/
+
+name: Jabber Guest Getting Started
+description: Jabber Guest can be integrated into a web application and a native iOS and android application.
+url: /site/jabber-guestsdk/guestsdk/getting-started/
+
+name: Cisco Jabber Guest for iOS Tutorials
+description: 
+url: /site/jabber-guestsdk/learn/tutorials/
+
+name: Getting Started With Cisco JTAPI
+description: 
+url: /site/jtapi/discover/getting-started/
+
+name: Cisco Unified JTAPI Supported JVM Versions
+description: 
+url: /site/jtapi/documents/cisco-unified-jtapi-supported-jvm-versions/
+
+name: Cisco JTAPI and Cisco Unified Communications Manager Compatibility Matrix
+description: JTAPI is backward compatible along the CUCM upgrade path. Example - QBE changes are done for Rabo bank customer in 6.1.4 ES. CUCM in 6.1.4 ES train can be upgraded to 6.1.5 and 7.1.3 and above only. It can't be upgraded to 7.0.2. JTAPI from 6.1.4 ES works with CUCM 7.1.3 and not with 7.0.2.
+url: /site/jtapi/documents/jtapi-ucm-compatibility-matrix/
+
+name: JTAPI Case Opening Steps
+description: For development issues and questions that cannot be addressed through the forum, you can open a case with Cisco’s Developer Support team.
+url: /site/jtapi/help/case-opening-steps/
+
+name: Cisco MediaSense Documentation
+description: 
+url: /site/mediasense/documentation/
+
+name: NeXt UI Demo
+description: NeXt UI Demo
+url: /site/neXt/discover/demo/
+
+name: NeXt UI Toolkit Videos
+description: NeXt UI Toolkit Videos
+url: /site/neXt/discover/video/
+
+name: NeXt UI Toolkit Common Topology Model
+description: NeXt defines a Common Topology Model (CTM) to allow you to describe your design topology. It follows the Graph abstract data type in the JSON format. Each model has two major properties; nodes and links which refers to a graph's vertices and edges respectively.
+url: /site/neXt/document/common-topology-model/
+
+name: Cisco Product Integrations with OpenDaylight
+description: This table lists Cisco products that are based on, or integrate with, OpenDaylight.
+url: /site/opendaylight/discover/odl-at-cisco/cisco-product-integration-with-odl/
+
+name: OpenDaylight Presentations at CiscoLive! San Diego 2015: Videos and Slides
+description: OpenDaylight Presentations at CiscoLive! San Diego 2015: Videos and Slides
+url: /site/opendaylight/discover/videos/cl-san-diego-2015/
+
+name: OpenDaylight Presentations at CiscoLive! Las Vegas: Videos and Slides
+description: OpenDaylight Presentations at CiscoLive! Las Vegas: Videos and Slides
+url: /site/opendaylight/discover/videos/cl-vegas/
+
+name: OpenDaylight Presentations at OpenDaylight Summit 2015: Videos and Slides
+description: OpenDaylight Presentations at OpenDaylight Summit 2015: Videos and Slides
+url: /site/opendaylight/discover/videos/opendaylight-summit-2015/
+
+name: NFV World Congress, May 2015, Santa Clara, California
+description: Cisco Presentation Videos at NFV World Congress, May 2015, Santa Clara, California
+url: /site/opnfv/discover/videos-presentations/nfv_world_congress_5_15_ca/
+
+name: OPNFV Learning Series
+description: OPNFV Learning Series
+url: /site/opnfv/discover/videos-presentations/opnfv-learning-series/
+
+name: SDN World Congress - October 2015 Düsseldorf
+description: SDN World Congress - October 2015 Düsseldorf
+url: /site/opnfv/discover/videos-presentations/sdn_world_congress_10_15/
+
+name: Cisco Platform Administrative Web Services (PAWS) Get Started
+description: We've put together several resources to help you get started with PAWS.
+url: /site/paws/discover/get-started/
+
+name: Cisco Platform Administrative Web Services (PAWS) "Hello World" Example
+description: To get started with using PAWS, lets look at a simple example.
+url: /site/paws/discover/getting-started/paws-hello-world.html
+
+name: Cisco Platform Administrative Web Services (PAWS) Developer Guide
+description: The Platform Administrative Web Services provide Cisco clients with the ability to:   1.For a given UC application with PAWS activated: •Upgrade •Switch version •Reboot •Get node information, such as version 2.Cancel an upgrade installation that is in progress. 3.Obtain hardware specifications. 4.Retrieve installed options on active and inactive partitions. 5.Determine which products are deployed. 6.Reboot systems without switching partitions. 7.Determine if an upgrade or a COP file is valid.
+url: /site/paws/documents/developer-guide/
+
+name: Cisco Platform Administrative Web Services (PAWS) Downloads
+description: 
+url: /site/paws/downloads/
+
+name: Cisco Platform Administrative Web Services (PAWS) FAQs
+description: 
+url: /site/paws/help/faqs/
+
+name: Cisco Platform Administrative Web Services (PAWS) Sample App
+description: This sample app demonstrates how to perform an upgrade of a single UC application (e.g. - CUCM or UC server) using the PAWS API.
+url: /site/paws/learn/sample-apps/
+
+name: Prime Home Applications Documentation
+description: Prime Home Applications Documentation
+url: /site/prime-home-apps/documentation/
+
+name: Prime Home Client Documentation
+description: Prime Home Client Documentation
+url: /site/prime-home-client/documentation/
+
+name: Documents - Prime Home Compatible Program
+description: Documents - Prime Home Compatible Program
+url: /site/prime-home-compatible/documentation/
+
+name: Cisco Prime Infrastructure Getting Started
+description: The Prime Infrastructure API attempts to conform to the design principles of Representational State Transfer ( REST). Simply change the format extension of a request to get results in the format of your choice. The documentation notes which formats are available for each method. The API supports XML and JSON data formats.
+url: /site/prime-infrastructure/documents/api-reference/quick-start-guide/
+
+name: Cisco Prime Infrastructure Step-by-Step Tutorial
+description: This tutorial will walk you through our RESTFUL API step-by-step. For this tutorial, we will get the list of the first five devices, sorted by IP address, whose name ends with ".com". At each step we will link to pages with more detailed information. Please do read those pages and the rest of our documentation as we do not cover everything in this tutorial.
+url: /site/prime-infrastructure/documents/api-reference/tutorial/
+
+name: Cisco Prime Infrastructure NBI Notifications
+description: Notifications are asynchronous messages sent by Prime Infrastructure to notify consumers of a set of key events. Prime Infrastructure uses the JMS publish/subscribe paradigm for these notifications. Consumers that subscribe to a pre-defined JMS topic that is created specially for NBI Notifications as configured in Prime Infrastructure, will be able to listen to the published JMS notification messages.
+url: /site/prime-infrastructure/documents/notification-api/notification-api/
+
+name: Welcome to Learning Cisco Platform Exchange Grid (pxGrid)
+description: The Cisco Platform Exchange Grid (pxGrid) allows you to integrate your application into the pxGrid, a multivendor, cross-platform network system that pulls together different parts of an IT infrastructure such as security monitoring and detection systems, network policy platforms, asset and configuration management, identity and access management platforms, to name a few.
+url: /docs/pxgrid/
+
+name: Getting Started with Cisco SocialMiner
+description: Here are some answers to some common questions that you might have about Cisco SocialMiner. 
+url: /site/socialminer/overview/start.html
+
+name: Cisco StadiumVision Mobile SDK: Getting Started
+description: Get started with the Cisco StadiumVision Mobile SDK and obtain the Cisco StadiumVision Mobile SDK file
+url: /site/svm/discover/getting-started/
+
+name: How Cisco StadiumVision Mobile Fits into a Windows Phone Framework
+description: The SVMVideoPlayerPage class is a class within StadiumVisionMobile rather than an inherited class for the app's video page. A connection from the Windows Phone app to the SVMVideoPlayerPage class includes a reference to the "Windows DirectX SwapChainPanel" when the StadiumVisionMobile class is instantiated. StadiumVision Mobile Class describes the StadiumVision Mobile classes.
+url: /site/svm/documents/svm-windows-framework/
+
+name: Unified CM Serviceability SNMP Overview
+description: The Simple Network Management Protocol (SNMP) interface allows external applications to query and report various Cisco Unified Communications Manager (Unified CM) entities. It provides information on the connectivity of the Unified CM to other devices in the network, including syslog information.
+url: /site/sxml/discover/overview/snmp/
+
+name: How to ...  Create an Unified CM Serviceability Java Client using JAX-WS
+description: This sample application demonstrates how to create an Serviceability XML (Serviceability) web service consumer client using the wsimport command that is part of Java 6. You can download the project and open it directly in Eclipse. The following article walks through how to generate the consumer classes and call the Serviceability selectCmDevice API from the RisPort service.
+url: /site/sxml/downloads/sample-app/
+
+name: Unified CM Serviceability Authentication
+description: Serviceability limits access to its services through HTTP 1.0 Basic Access Authentication, a transaction scheme described in RFC 2617. The advantage of HTTP Basic Access Authentication is the simple implementation, including using only standard HTTP headers and, when using a web browser, the browser implements and manages the login dialog.
+url: /site/sxml/learn/authentication/
+
+name: Unified CM Serviceability CDROnDemand Getting Started
+description: The CDROnDemand service is included in the installation of Cisco Unified Communications Manager (Cisco Unified CM) software. 
+url: /site/sxml/learn/getting-started/cdr-on-demand/
+
+name: Unified CM Serviceability Control Center and Control Center Extended Getting Started
+description: The Control Center service is included in the installation of Cisco Unified Communications Manager (Cisco Unified CM) software. 
+url: /site/sxml/learn/getting-started/service-control/
+
+name: Unified CM Serviceability SNMP Getting Started
+description: The Simple Network Management Protocol (SNMP) services are included in the installation of Cisco Unified Communications Manager (Unified CM).
+url: /site/sxml/learn/getting-started/snmp/
+
+name: Unified CM Serviceability How to Execute Serviceability Requests with SoapUI
+description: This example uses the selectCMDeviceExt method of the RisPort70 API. This method allows clients to perform Cisco Unified Communications Manager (Unified CM) device-related queries. The method returns a snapshot of real-time device registration status from each Cisco Unified CM node. The data includes registration status, IP address, model info, and CTI application connections to the device. This request consolidates device records across nodes, returning only the device info for the latest registration.
+url: /site/sxml/learn/soap-ui-tutorial/
+
+name: Getting Started With Cisco TAPI
+description: 
+url: /site/tapi/discover/getting-started/
+
+name: TAPI Developer Training Materials and Sample Applications
+description: 
+url: /site/tapi/downloads/
+
+name: TAPI Case Opening Steps
+description: 
+url: /site/tapi/help/case-opening-steps/
+
+name: TAPI Frequently asked Questions
+description: 
+url: /site/tapi/help/faq/
+
+name: UC Express Services Interface (UCXAPI) SDK Documents
+description: 
+url: /site/uc-express-services/documents/sdk/
+
+name: UC Gateway Services (GSAPI) Technical Overview
+description: The Cisco Unified Communication Gateway Services API, supported on Cisco ISR-G2 Voice Gateways, provides visibility and control of real time signaling and media voice traffic being routed through the gateway, whether via TDM or SIP trunk interfaces to the Service Provider. The API enables applications to instruct the Cisco Voice Gateway to take policy control, including such actions as call termination, call redirection or call forking (for recording) to support a wide range of voice network use cases.
+url: /site/uc-gateway-services/discover/tech-overview/
+
+name: UC Gateway Services (GSAPI) Developer Guides
+description: 
+url: /site/uc-gateway-services/documents/
+
+name: Getting Started With Cisco SIP
+description: 
+url: /site/uc-manager-sip/discover/getting-started/
+
+name: Cisco Unified Presence Developer Guide
+description: Session Initiation Protocol(SIP) is a Internet Engineering Task Force (IETF) standard for multimedia communication and conferencing over IP: telephone calls, video, instant messaging/presence, etc. can be supported. SIP is an ASCII-based, application-layer control (defined in RFC 3261) that can be used to establish, maintain, and terminate calls between two or more endpoints. Like other VoIP protocols, SIP is designed to address the functions of signaling and session management within a packet telephony network.
+url: /site/uc-manager-sip/discover/tech-overview/
+
+name: SIP Trunk Documents
+description: 
+url: /site/uc-manager-sip/documents/sip_trunk/
+
+name: Unified Communication Manager (UCM) Silent Monitoring/Recording Supported Device Matrix
+description: 
+url: /site/uc-manager-sip/documents/supported/
+
+name: Cisco UCS Programmability Docs
+description: The Cisco Unified Compute System is the realization of Programmable Infrastructure. By providing an open full-coverage API, UCS infrastructure developers can manage compute, network and storage resources with simplicity. The UCS Unified APIs are avaialble in UCS Manager, UCS Central and UCS IMC. Because the Unified APIs are, well... unified, learning one API means you've learned the others. The systems or endpoints you develop for are represented as hierarchical Object Models referred to as the Managment Information Tree. 
+url: /docs/ucs-dev-center/
+
+name: Cisco User Data Services (UDS) Get Started
+description: Learn About UDS and Unified CM
+url: /site/user-data-services/discover/getting-started/
+
+name: Cisco User Data Services (UDS) API Reference
+description: The User Data Services (UDS) API is a REST-based set of operations that provide authenticated access to user resources and entities, such as user's devices, subscribed services, speed dials, and much more from the Cisco Unified Communications Manager (Unified CM) configuration database.
+url: /site/user-data-services/documents/api-reference/
+
+name: Cisco User Data Services (UDS) Developer Guide
+description: The User Data Services (UDS) API is a REST-based set of operations that provide authenticated access to user resources and entities, such as user's devices, subscribed services, and speed dials, from the Unified Communications configuration database.
+url: /site/user-data-services/documents/developer-guide/
+
+name: Cisco User Data Services (UDS) How to Develop an AJAX App Using a Proxy
+description: The following article walks you through developing an AJAX app using a proxy server. The sample code will then:  Retrieve a list of CUCM servers Retrieve a list of devices that the owner manages Modify a device's description
+url: /site/user-data-services/learn/how-to/develop-an-ajax-app/
+
+name: WebDialer Documentation - Previous Versions
+description: 
+url: /site/webdialer/documents/previous-versions/
+
+name: Cisco Unity Connection APIs Troubleshooting
+description: 
+url: http://docwiki.cisco.com/wiki/Cisco_Unity_Connection_APIs_--_Troubleshooting
+
+name: Welcome to Virtual Internet Routing Lab
+description: Welcome to Virtual Internet Routing Lab
+url: http://virl-dev-innovate.cisco.com/
+
+name: YANG Development Kit (C++) Documentation
+description: The YANG Development Kit (YDK) is a Software Development Kit that provides API’s that are modeled in YANG. The main goal of YDK is to reduce the learning curve of YANG data models by expressing the model semantics in an API and abstracting protocol/encoding details. YDK is composed of a core package that defines services and providers, plus one or more module bundles that are based on YANG models.
+url: http://ydk.cisco.com/cpp/docs/
+
+name: A Software Development Kit that provides API’s that are modeled in YANG.
+description: The YANG Development Kit (YDK) is a Software Development Kit that provides API’s that are modeled in YANG. The main goal of YDK is to reduce the learning curve of YANG data models by expressing the model semantics in an API and abstracting protocol/encoding details. YDK is composed of a core package that defines services and providers, plus one or more module bundles that are based on YANG models.
+url: http://ydk.cisco.com/py/docs/index.html
+
+name: Meraki Location API
+description: Cisco Meraki's wireless access points can detect and provide location analytics to report on user foot traffic behavior. This can be especially useful in multi-site retail or enterprise deployments where admins or departments beyond IT wish to learn more about trends and user engagement. Coupled with traditional reporting from the WiFi network on client devices, applications and websites, Cisco Meraki provides a holistic view of online and offline user traffic.
+url: https://documentation.meraki.com/MR/Monitoring_and_Reporting/Location_Analytics#Location_API
+
+name: Nexus 9000 Community GitHub
+description: Welcome to the GitHub Community for Nexus 9000. This site is intended as a place for any users of Cisco Nexus 9000 running NX-OS to share code and learn to build solutions. While many of the initial contributions were created by Cisco employees, ANYONE is allowed and in fact encouraged to participate and share code. Pull requests are monitored and reviewed by a group of administrators to maintain a level of quality and protect users consuming code as well.
+url: https://github.com/datacenter/nexus9000
+
+name: OpenDaylight Documentation
+description: This project is providing manuals and documentation for OpenDaylight
+url: https://github.com/opendaylight/docs
+
+name: Cisco Administrative XML (AXL) StackOverflow
+description: 
+url: https://stackoverflow.com/questions/tagged/cisco-axl
+
+name: Cisco Zeus Product Guides
+description: Cisco Zeus Product Guides
+url: https://support.ciscozeus.io/support/solutions/folders/9000162343
+
+name: Cisco PSIRT openVuln API: Security Vulnerability Policy
+description: 
+url: https://www.cisco.com/c/en/us/about/security-center/security-vulnerability-policy.html
+
+name: Cisco SocialMiner Technical Overview
+description: Cisco SocialMiner is a social media customer care solution that can help you proactively respond to customers and prospects communicating through public social media networks like Twitter, Facebook, or other public forums or blogging sites. By providing social media monitoring, queuing, and workflow to organize customer posts on social media networks and deliver them to your social media customer care team, your company can respond to customers in real time using the same social network they are using.
+url: https://www.cisco.com/c/en/us/products/customer-collaboration/socialminer/index.html
+
+name: Cisco IOS XR Software Configuration Guides
+description: Cisco IOS XR Software Configuration Guides
+url: https://www.cisco.com/c/en/us/support/routers/network-convergence-system-5500-series/products-installation-and-configuration-guides-list.html
+
+name: Cisco IOS XR Software Application Hosting Configuration Guide
+description: Application Hosting Configuration Guide for Cisco NCS 5500 Series Routers
+url: https://www.cisco.com/c/en/us/td/docs/iosxr/ncs5500/app-hosting/b-application-hosting-configuration-guide-ncs5500.html
+
+name: Cisco IOS XR Software Programmability Configuration Guide
+description: Programmability Configuration Guide for Cisco NCS 5500 Series Routers, IOS XR Release 6.2.x
+url: https://www.cisco.com/c/en/us/td/docs/iosxr/ncs5500/DataModels/b-programmability-cg-ncs5500-62x.html
+
+name: OpenDaylight Downloads
+description: OpenDaylight Downloads
+url: https://www.opendaylight.org/technical-community/getting-started-for-developers/downloads-and-documentation
+
+name: Cisco Nexus 9000 Series NX-API CLI Reference, Release 9.2x
+description: NX-API CLI is an enhancement to the Cisco Nexus 9000 Series CLI system, which supports XML output. 
+url: /docs/cisco-nexus-9000-series-nx-api-cli-reference-release-9-2x/
+
+name: NX-API DME Model 7.0(3)I7(3) Reference
+description: 
+url: /docs/nx-dme-ref-703I73/
+
+name: Code Exchange API
+description: 
+url: /docs/code-exchange-api/
+
+name: DNA Center Platform
+description: 
+url: /docs/dna-center/
+
+name: DSLink CPP SDK
+description: 
+url: /docs/dslink-cpp-sdk/
+
+name: Cisco Kinetic
+description: Cisco Kinetic makes it easy to connect distributed devices (“things”) to the network, and then extract, normalize, and securely move data from those devices to distributed applications. 
+url: /docs/kinetic/
+
+name: My Docs Project
+description: 
+url: /docs/bogus/
+
+name: NX-API DME Model 7.0(3)I7(4) Reference
+description: 
+url: /docs/nx-dme-ref-703I74/
+
+name: NX-API DME Model 9.2(1) Reference
+description: 
+url: /docs/nx-dme-ref-921/
+
+name: NX-API DME Model 7.0(3)I7(2) Reference
+description: 
+url: /docs/nx-dme-ref-703I72/
+
+name: openapi-sample
+description: 
+url: /docs/openapi-sample/
+
+name: OpenConfig YANG
+description: OpenConfig is a group of network operators sharing the common goal of migrating networks toward a more dynamic, programmable infrastructure by adopting modern networking principles such as declarative configuration and model-driven management and operations.
+url: /docs/openconfig-yang-release-9-2x/
+
+name: PSIRT openVuln API
+description: The Cisco Product Security Incident Response Team (PSIRT) openVuln API is a RESTful API that allows technical staff and programmers to build tools that help them do their job more effectively (in this case, to keep up with security vulnerability information).
+url: /docs/psirt/
+
+name: Test 201
+description: 
+url: /docs/test-201/
+
+name: WebEx XML API Reference Guide
+description: 
+url: /docs/webex-xml-api-reference-guide/
+
+name: Wireless Troubleshooting Tools
+description: 
+url: /docs/wireless-troubleshooting-tools/
+
